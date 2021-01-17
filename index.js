@@ -1,1 +1,1 @@
-let divide = x => x;
+let divide = (x, y) => x / y;
